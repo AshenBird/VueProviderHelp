@@ -1,5 +1,5 @@
 {
-  "name": "@mcswift/vueproviderhelp",
+  "name": "@mcswift/common-provider",
   "private": true,
   "version": "0.0.0",
   "type": "module",
